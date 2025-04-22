@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <head>
     <title>amritdangongithub</title> 
     <body>
-      <h6>hello guys welcome to my github id </h6>
+      <h2>hello guys welcome to my github id </h2>
     </body>
   </head>
 </html>
